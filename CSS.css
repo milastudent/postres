@@ -467,7 +467,7 @@ button{
 
 .contact-section .contact-img .img-box{
     padding: 200px 0;
-    background-image: url('../imagens/telon-fondo-rosa-degradado-fotografico_1258-14363.jpg');
+    background-image: url('../imge/fondo-rosa-degradado-de-color-agua-pálido-delicado-y-suave-170141085');
     background-size: cover;
     background-position: center ;
 }
@@ -476,7 +476,7 @@ button{
     text-align: center;
 }
 .contact-section .section-title h1{
-    color:#ffffff;
+    color:lightslategray;
 }.contact-section .section-title h1:before{
     background-color: #ffffff;
     left: 50%;
